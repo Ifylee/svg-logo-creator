@@ -15,7 +15,7 @@ To run this application, simply open in integrated terminal and run node index.j
 # License
 This project is lisensed under the MIT license.
 
-
-So the next time you think of generating a simple but unique svg logo, look no further, just a click  on my application link and you will be on your way to saving some money for yourself with yet a customized svg logo for your projects. A trial will convince you!! Let's go....
+# Just a Click away
+The next time you think of generating a simple but unique svg logo, look no further, just a click  on my application link and you will be on your way to saving some money for yourself with yet a customized svg logo for your projects. A trial will convince you!! Let's go....
 https://github.com/Ifylee/svg-logo-creator
 
