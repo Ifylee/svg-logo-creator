@@ -1,6 +1,6 @@
 # SVG-Logo-Creator
 
-The SVG Logo Creator is a Node.js command-line application that generates a logo based on user input and saves it as an SVG file in the project directory. This tool allows users to customize the background color, shape and text for the logo.
+This application is a Node.js command-line (CLI) tool designed to generate custom SVG logos based on user inputs. Users can specify the text, text color, shape, and shape color for their logo. The generated logo is then saved as an SVG file.
 
 # Installation
 
