@@ -27,4 +27,3 @@ Here is the SVG logo i generated:
 So the next time you think of generating a simple but unique svg logo, look no further, just a click  on my application link and you will be on your way to saving some money for yourself with yet a customized svg logo for your projects. A trial will convince you!! Let's go....
 https://github.com/Ifylee/svg-logo-creator
 
-![alt text](image-1.png)
