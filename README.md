@@ -20,7 +20,11 @@ This project is lisensed under the MIT license.
 Here is the SVG logo i generated: 
 ![My SVG Logo](./examples/SVG.svg)
 
+# Walkthrough video
+
+[![video image](image-1.png)](https://drive.google.com/file/d/1tBnzT3NumTY67SpsBc8K_2aKp7YmRIFh/view?usp=sharing)
 
 So the next time you think of generating a simple but unique svg logo, look no further, just a click  on my application link and you will be on your way to saving some money for yourself with yet a customized svg logo for your projects. A trial will convince you!! Let's go....
 https://github.com/Ifylee/svg-logo-creator
 
+![alt text](image-1.png)
